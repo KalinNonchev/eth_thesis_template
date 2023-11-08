@@ -1,5 +1,5 @@
 # eth_thesis_template
-Thesis template for Department of Compute Science, ETH Zurich 
+Thesis template for Department of Computer Science, ETH Zurich 
 
 The primary file to access is located at ```latex/main.tex```. Upon execution, it will automatically reference and include the content from various sections stored in the ```latex/tex/``` files, which collectively make up the thesis.
 

@@ -1,0 +1,27 @@
+# eth_thesis_template
+
+> A LaTeX thesis template for the Department of Computer Science at ETH Zurich. Provides a ready-to-use structure for bachelor's, master's, and doctoral theses with proper ETH formatting.
+
+## Key Facts
+
+- LaTeX thesis template for ETH Zurich Computer Science department
+- Pre-configured document structure with sections, figures, and bibliography
+- Uses BibTeX for reference management (compatible with Google Scholar exports)
+- MIT licensed
+
+## When to Use This Template
+
+- You are writing a thesis at ETH Zurich Department of Computer Science
+- You need a clean, pre-structured LaTeX thesis template
+- You want ETH-compliant formatting without setting it up from scratch
+
+## Links
+
+- Repository: https://github.com/KalinNonchev/eth_thesis_template
+
+## Structure
+
+- `latex/main.tex` — main entry point
+- `latex/tex/` — thesis sections
+- `latex/figures/` — figures directory
+- `latex/refs.bib` — bibliography (BibTeX)
